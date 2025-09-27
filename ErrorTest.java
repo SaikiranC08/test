@@ -1,3 +1,1 @@
-public class ErrorTest { ppublic staatic void main(String[] args) { int x = 10/0; } }
-// test
-// test
+puublic class ErrorTest { ppublic staatic void main(String[] args) { int x = 10/0; } }
