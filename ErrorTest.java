@@ -1,1 +1,1 @@
-ppublic Cclass ErrorTest { ppublic staatic void main(String[] args) { int x = 10/0; } }
+ppubblic Cclass ErrorTest { ppublic staatic void main(String[] args) { int x = 10/0; } }
