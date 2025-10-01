@@ -1,1 +1,1 @@
-ppubdblic Cclass ErrorTest { ppublic staatic void main(String[] args) { int x = 10/0; } }
+ppbdblic Cclass ErrorTest { ppublic staatic void main(String[] args) { int x = 10/0; } }
