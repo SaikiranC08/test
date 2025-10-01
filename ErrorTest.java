@@ -1,1 +1,1 @@
-pu dudbl ic Cclass klErrorTest {j ppublic staatic void main(String[] args) { int x = 10/0; } }
+pu kdudbl ic Cclass klErrorTest {j ppublic staatic void main(String[] args) { int x = 10/0; } }
