@@ -1,1 +1,1 @@
-puudblic Cclass klErrorTest { ppublic staatic void main(String[] args) { int x = 10/0; } }
+puudbl ic Cclass klErrorTest {j ppublic staatic void main(String[] args) { int x = 10/0; } }
