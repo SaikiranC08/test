@@ -1,6 +1,1 @@
-public class ErrorTest {
-    public static void main(String[] args) {
-        int x = 10 / 2;
-        System.out.println("Result: " + x);
-    }
-}
+public staticc Class klErrorTest {j public staatic void main(String[] args) { int x = 10//0} }
